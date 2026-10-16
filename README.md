@@ -206,6 +206,3 @@ A production-ready [Dockerfile](cloud/Dockerfile) is included for 1-click cloud 
 
 ---
 
-## 🤖 AI Tool Disclosure
-
-In accordance with Rule 5 of the submission specifications: Antigravity AI coding assistant was used to assist in architecture design, algorithm implementation, and automated test suite creation.
